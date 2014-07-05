@@ -9,7 +9,8 @@
 結城洋志（ゆうきひろし）/Piro（ぴろ）
 
  * [株式会社クリアコード](http://www.clear-code.com/)所属。
- * 業務では、Mozilla Firefox/Thunderbirdの企業導入のサポートや、Groonga関連プロダクトの開発などに従事しています。
+ * 業務では、Mozilla Firefox/Thunderbirdの企業導入のサポートや、全文検索エンジン[Groonga](http://groonga.org/)の関連プロダクト（最近では特に特に[Droonga](http://droonga.org/)）の開発などに従事しています。
+ * 第1言語はJavaScript、第2言語はRubyです。他に、Bashスクリプト、NSISスクリプトなども書きます。
  * 個人では、[ツリー型タブ（Tree Style Tab）](http://piro.sakura.ne.jp/xul/_treestyletab.html)などのFirefox用アドオンを開発しています。
  * 何故か、[日経Linux誌](http://itpro.nikkeibp.co.jp/linux/)にてコマンドライン＆シェルスクリプト解説漫画[シス管系女子](http://tatsu-zine.com/books/syskankeijosi1)を連載しています。
 
