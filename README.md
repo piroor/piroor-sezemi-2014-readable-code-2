@@ -22,6 +22,6 @@
  * [YamaRascal](https://github.com/YamaRascal/YamaRascal-sezemi-2014-readable-code-2)
  * [masascii](https://github.com/masascii/masascii-sezemi-2014-readable-code-2)
  * [gecko655](https://github.com/gecko655/gecko655-sezemi-2014-readable-code-2)
- * []
- * []
- * []
+ * [kentya6](https://github.com/kentya6/kentya6-sezemi-2014-readable-code-2)
+ * [using923](https://github.com/using923/using923-sezemi-2014-readable-code-2.git)
+ * [YamaguchiToshiki](https://github.com/YamaguchiToshiki/YamaguchiToshiki-sezemi-2014-readable-code-2.git)
