@@ -16,7 +16,12 @@
 
 ## グループのメンバー
 
- * [???](https://github.com/???/???-sezemi-2014-readable-code-2)
- * [???](https://github.com/???/???-sezemi-2014-readable-code-2)
- * [???](https://github.com/???/???-sezemi-2014-readable-code-2)
- * [???](https://github.com/???/???-sezemi-2014-readable-code-2)
+ * [nick111](https://github.com/nick111/nick111-sezemi-2014-readable-code-2)
+ * [jmatsu](https://github.com/jmatsu/jmatsu-sezemi-2014-readable-code-2)
+ * [tokuhisa](https://github.com/tokuhisa/tokuhisa-sezemi-2014-readable-code-2)
+ * [YamaRascal](https://github.com/YamaRascal/YamaRascal-sezemi-2014-readable-code-2)
+ * [masascii](https://github.com/masascii/masascii-sezemi-2014-readable-code-2)
+ * [gecko655](https://github.com/gecko655/gecko655-sezemi-2014-readable-code-2)
+ * []
+ * []
+ * []
